@@ -1,0 +1,68 @@
+{
+  "title": "Oceanview Hotel",
+
+  "nav.home": "Home",
+  "nav.rooms": "Rooms",
+  "nav.about": "About Us",
+  "nav.features": "Hotel Features",
+  "nav.contact": "Contact",
+
+  "hero.title": "Wake Up to the Ocean",
+  "hero.subtitle": "Where every stay is smooth sailing and every sunset steals the show",
+  "hero.cta": "Explore Rooms",
+
+  "home.featured": "Featured Rooms",
+
+  "newsletter.title": "Stay in the Loop",
+  "newsletter.subtitle": "Get exclusive offers — don’t let the tide pass you by!",
+  "newsletter.cta": "Subscribe",
+
+  "room1.name": "Standard Room",
+  "room1.desc": "A cozy space where comfort meets practicality — no bells and whistles, but it hits the sweet spot without missing a beat",
+  "room1.price": "From $90 / night",
+  "room1.meta": "Queen bed • City view • Free Wi-Fi",
+
+  "room2.name": "Deluxe Room",
+  "room2.desc": "Step things up with extra space and style — the kind of upgrade that doesn’t just raise the bar, it moves the goalposts",
+  "room2.price": "From $150 / night",
+  "room2.meta": "King bed • Ocean view • Balcony",
+
+  "room3.name": "Suite",
+  "room3.desc": "Live large in a suite that pulls out all the stops — because when it rains luxury, we don’t just get wet, we make a splash",
+  "room3.price": "From $250 / night",
+  "room3.meta": "King bed • Living area • Panoramic view",
+
+  "rooms.title": "Our Rooms",
+
+  "features.title": "Hotel Features",
+  "feature1.name": "Housekeeping",
+  "feature1.desc": "Our housekeeping keeps things shipshape and Bristol fashion — we don’t just clean up, we tidy up your worries so you can rest easy.",
+  "feature2.name": "Room Service",
+  "feature2.desc": "Feeling peckish? Our room service brings the goods straight to your door — because good things come to those who don’t have to get out of bed.",
+  "feature3.name": "Free Wi-Fi",
+  "feature3.desc": "Stay connected at lightning speed — whether you’re tying up loose ends or surfing the web, we’ve got you covered (no strings attached).",
+
+  "about.title": "About Oceanview Hotel",
+  "about.story": "Nestled by the shoreline, Oceanview Hotel is where relaxation and refinement go hand in hand. Since opening our doors, we’ve been helping guests unwind, recharge, and soak in the view — no strings attached, just sea breeze included.",
+  "about.mission": "Our mission is simple: to make every stay feel like a home away from home, only better. From thoughtful service to unforgettable views, we aim to make waves in hospitality — in the best possible way.",
+
+  "contact.title": "Contact Us",
+  "contact.text": "Questions, special requests, or just testing the waters? Drop us a line — we’re all ears.",
+  "contact.nameLabel": "Your Name",
+  "contact.emailLabel": "Email Address",
+  "contact.messageLabel": "Message",
+  "contact.cta": "Send Message",
+  "contact.name": "John Doe",
+  "contact.email": "you@example.com",
+  "contact.message": "Your message...",
+  "contact.follow": "Stay Connected",
+  "contact.phoneLabel": "Phone",
+
+  "hero.img": "assets/images/en/hero.jpg",
+  "room1.img": "assets/images/en/hotel_room1.jpg",
+  "room2.img": "assets/images/en/hotel_room2.jpg",
+  "room3.img": "assets/images/en/hotel_room3.jpg",
+  "feature1.img": "assets/images/en/hotel_feature1.jpg",
+  "feature2.img": "assets/images/en/hotel_feature2.jpg",
+  "feature3.img": "assets/images/en/hotel_feature3.jpg"
+}
